@@ -20,8 +20,8 @@
       <plugins>
         <plugin>
           <!-- maven.compiler.release introduced in 3.6.0 -->
-          <artifactId>maven-compiler-plugin</artifactId>
-          <version>3.6.0</version>
+           <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.8.1</version> <!-- Use 3.8.1 or later -->
         </plugin>
       </plugins>
     </pluginManagement>
